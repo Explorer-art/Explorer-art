@@ -7,7 +7,7 @@ I am a beginner programmer. I am in my 2nd year of college.
 
 ## Interesting facts
 
-⚙️ I'm currently working on my operating system
+⚙️ I'm currently learning Java and creating plugins for servers in Minecraft
 
 🌐 I love network technologies and everything related to them (servers, scanners, protocols)
 
