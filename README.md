@@ -7,8 +7,8 @@ I am a beginner programmer. I am in my 2nd year of college.
 
 ## Interesting facts
 
-⚙️ I'm currently learning Java and creating plugins for servers in Minecraft
+☕ I'm currently learning Java and creating plugins for servers in Minecraft
 
 🌐 I love network technologies and everything related to them (servers, scanners, protocols)
 
-🔧 I'm interested in low-level programming, even though it is quite complex
+⚙️ I'm interested in low-level programming, even though it is quite complex
