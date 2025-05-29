@@ -7,7 +7,7 @@ I am a beginner programmer. I am in my 2nd year of college.
 
 ## Interesting facts
 
-☕ I'm currently learning Java
+📚 I'm currently learning Golang
 
 🌐 I love network technologies and everything related to them (servers, scanners, protocols)
 
